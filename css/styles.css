@@ -27,7 +27,7 @@ header nav {
     height: 100%;
 }
 .home .text-container {
-    width: 1500px;
+    width: 500px;
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
